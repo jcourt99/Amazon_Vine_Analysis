@@ -11,13 +11,19 @@ This task is to analyze Amazon reviews written by members of the paid Amazon Vin
 Vine = 1207
 Non-Vine = 97,839
 
+![Total reviews](https://github.com/jcourt99/Amazon_Vine_Analysis/blob/main/Images/Total_reviews.jpg)
+
 * Count of 5 star reviews by Vine and non-Vine reviewers:
 Vine = 509
 Non-Vine = 45,858
 
+![5 star reviews](https://github.com/jcourt99/Amazon_Vine_Analysis/blob/main/Images/Five_Star_Review_Count.jpg)
+
 * Percentage of 5 star reviews by Vine and non-Vine reviewers:
 Vine = 43%
 Non-Vine = 47%
+
+![Five Star review percentages](https://github.com/jcourt99/Amazon_Vine_Analysis/blob/main/Images/Five_Star_Review_Percentage.jpg)
 
 ## Summary
 
